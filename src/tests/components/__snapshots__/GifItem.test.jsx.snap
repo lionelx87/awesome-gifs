@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in GifItem Should match the snapshot 1`] = `
+<div>
+  <div
+    class="card animate__animated animate__zoomInDown"
+  >
+    <img
+      alt="title"
+      src="https://dragon-ball.jpg/"
+    />
+    <p>
+      title
+    </p>
+  </div>
+</div>
+`;
